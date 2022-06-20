@@ -20,7 +20,7 @@ Cũng chú ý không để trái banh chạy ra ngoài đường đi. Nếu làm
  - **Vuốt trái phải** để điều khiển qua 2 bên trái phải
  - **Vuốt lên** để cho trái banh nhảy
 
-![](https://i.ibb.co/2y3DTzt/Screenshot-20220620-213604-Sliding-Ball.jpg =350x)
+![](https://i.ibb.co/2y3DTzt/Screenshot-20220620-213604-Sliding-Ball.jpg | width=350)
 
 **Tải về:**
 
